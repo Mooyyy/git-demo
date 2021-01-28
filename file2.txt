@@ -14,3 +14,12 @@ function2();
 
 
 this is in test-branch phase
+
+
+function1(){
+    return sum1;
+}
+
+function2(){
+    return sum2;
+}
