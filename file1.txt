@@ -1,11 +1,3 @@
-Add File 1
+This is File1.txt
 
-
-Adding file 1
-still on test phase
-
-testing1234
-
-123456
-
-# this is in main-branch
+Adding new contents in this text file.
