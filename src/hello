@@ -1,3 +1,4 @@
 public static void main (String args[]){
-    System.out.println("hello);
+    // fix bugs and errors in this code
+    System.out.println("hello");
 }
