@@ -1,4 +1,0 @@
-public static void main (String args[]){
-    // fix bugs and errors in this code
-    System.out.println("hello");
-}
