@@ -2,4 +2,3 @@ This is file2.txt
 
 file2.txt contains new files.
 
-test 2 SSH Key
